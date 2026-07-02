@@ -38,7 +38,6 @@ def validar_monto():
             return zona
         else:
             print("? Error")
-
 def registrar_pedido():
     global total_pedidos, pedidos_pendientes, recaudacion_total
     global pedidos_zona_norte, pedidos_zona_sur, pedidos_zona_centro

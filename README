@@ -3,13 +3,14 @@ Trabajo Final Integrador: Sistema de Delivery
 * Integrante 1: Guinea, Josias Vicente.
 * Integrante 2: Herrmann Benasayag, Mateo.
 * Integrante 3: Romero Pasetto, Alejo.
-## Datos
+# Datos
 	* Carrera: Ingeniería en Sistemas de la Información. 
 * Universidad: Universidad Tecnológica Nacional (UTN) - Facultad Regional Resistencia.
 	* Comisión: K 1.4 D, Grupo Python D 30
-## Descripción general del sistema.
+# Descripción general del sistema.
 El proyecto consiste en un “Sistema de Delivery” automatizado y desarrollado en Python, diseñado para ejecutarse completamente a través de la consola de comandos. Su objetivo principal es optimizar la logística y el control de pedidos de un local gastronómico.
-## El sistema permite.
+# El sistema permite.
 •	Registrar nuevos pedidos: Solicitando de forma interactiva el importe de la venta y clasificando el destino según tres zonas de reparto predefinidas (Norte, Sur y Centro).
 •	Controlar las entregas: Gestionando el flujo de los pedidos en tiempo real y permitiendo cambiar su estado logístico de "Pendiente" a "Entregado".
 •	Visualizar estadísticas y reportes: Presentando un desglose detallado que incluye la recaudación total acumulada, la cantidad de pedidos históricos y el ticket promedio por venta, además de la distribución de entregas por zonas.
+
