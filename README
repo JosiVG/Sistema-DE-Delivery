@@ -14,3 +14,26 @@ El proyecto consiste en un “Sistema de Delivery” automatizado y desarrollado
 •	Controlar las entregas: Gestionando el flujo de los pedidos en tiempo real y permitiendo cambiar su estado logístico de "Pendiente" a "Entregado".
 •	Visualizar estadísticas y reportes: Presentando un desglose detallado que incluye la recaudación total acumulada, la cantidad de pedidos históricos y el ticket promedio por venta, además de la distribución de entregas por zonas.
 
+## Instrucciones de Ejecución
+
+Para ejecutar el sistema correctamente en su computadora local, siga estos pasos:
+
+1.  *Requisitos Previos: Asegúrese de tener instalado *Python 3.x* en su sistema.
+2.  *Descarga del Proyecto: Clone este repositorio o descargue los archivos en una carpeta local.
+3.  *Abrir la Terminal: Abra la terminal de comandos (CMD, PowerShell o la terminal integrada de VS Code) y asegúrese de estar posicionado dentro de la carpeta del proyecto.
+4.  *Iniciar la Aplicación: Ejecute el siguiente comando en la consola:
+    ```bash
+    python sistema_delivery.py
+    ```
+5.  *Interacción: Use el teclado numérico para navegar por las opciones del menú interactivo (1 al 4) y siga las instrucciones en pantalla.
+
+## Registro de Asistencia de Inteligencia Artificial
+
+En cumplimiento con los requerimientos de la cátedra, dejamos constancia de que utilizamos la IA GeminiIA, como herramienta de soporte y asistencia colaborativa durante el ciclo de desarrollo del proyecto, bajo los siguientes tópicos:
+
+1.  *Resolución de dudas técnicas y Git: Fue utilizada para comprender el flujo de trabajo colaborativo en equipo, ayudando a diagnosticar mensajes del sistema y a resolver conflictos de código (`Merge Conflicts`) que surgieron al unificar los aportes de los integrantes en el repositorio.
+2.  *Propuesta de estructuras de código: Asistió en el diseño inicial y la arquitectura modular del esqueleto del programa, proponiendo la estructura limpia del menú interactivo por consola y el bucle principal.
+3.  *Refactorización y versión final: Se utilizó para pasar en limpio la versión final del código fuente, asegurando que se cumplan estrictamente las restricciones de la consigna, y para mantener la sintaxys correcta que se necesitaba utilizar para no tener errores en el código. y Tambien para no incluir estructuras de datos avanzadas o no vistas aun que excedieran el programa de la materia.
+
+## Link al video de YouTube:
+https://www.youtube.com/watch?v=Qzw9UIa9HMc
